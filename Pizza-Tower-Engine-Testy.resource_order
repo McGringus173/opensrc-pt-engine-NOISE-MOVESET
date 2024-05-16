@@ -87,7 +87,6 @@
     {"name":"sfx_sjumpstart","order":9,"path":"sounds/sfx_sjumpstart/sfx_sjumpstart.yy",},
     {"name":"sfx_suplexdash","order":13,"path":"sounds/sfx_suplexdash/sfx_suplexdash.yy",},
     {"name":"sfx_taunt","order":2,"path":"sounds/sfx_taunt/sfx_taunt.yy",},
-    {"name":"baldi","order":11,"path":"sprites/baldi/baldi.yy",},
     {"name":"spr_crazyruneffect","order":3,"path":"sprites/spr_crazyruneffect/spr_crazyruneffect.yy",},
     {"name":"spr_crazyruneffectother","order":4,"path":"sprites/spr_crazyruneffectother/spr_crazyruneffectother.yy",},
     {"name":"spr_doordestination","order":8,"path":"sprites/spr_doordestination/spr_doordestination.yy",},
@@ -149,6 +148,7 @@
     {"name":"spr_player_taunt","order":13,"path":"sprites/spr_player_taunt/spr_player_taunt.yy",},
     {"name":"spr_player_walk","order":2,"path":"sprites/spr_player_walk/spr_player_walk.yy",},
     {"name":"spr_playerN_divebomb","order":24,"path":"sprites/spr_playerN_divebomb/spr_playerN_divebomb.yy",},
+    {"name":"spr_playerN_sidewayspin","order":26,"path":"sprites/spr_playerN_sidewayspin/spr_playerN_sidewayspin.yy",},
     {"name":"spr_playerN_wallbounce","order":25,"path":"sprites/spr_playerN_wallbounce/spr_playerN_wallbounce.yy",},
     {"name":"spr_punchhitbox","order":2,"path":"sprites/spr_punchhitbox/spr_punchhitbox.yy",},
     {"name":"spr_sjumpcanceleffect","order":7,"path":"sprites/spr_sjumpcanceleffect/spr_sjumpcanceleffect.yy",},
@@ -156,6 +156,5 @@
     {"name":"spr_slope","order":4,"path":"sprites/spr_slope/spr_slope.yy",},
     {"name":"spr_solid","order":3,"path":"sprites/spr_solid/spr_solid.yy",},
     {"name":"spr_speedlines","order":2,"path":"sprites/spr_speedlines/spr_speedlines.yy",},
-    {"name":"spr_playerN_sidewayspin","order":26,"path":"sprites/spr_playerN_sidewayspin/spr_playerN_sidewayspin.yy",},
   ],
 }

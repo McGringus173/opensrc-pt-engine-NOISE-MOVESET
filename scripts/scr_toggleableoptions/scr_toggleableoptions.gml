@@ -1,4 +1,4 @@
 function scr_toggleableoptions() {
-	global.smoothcamera = false
+	global.smoothcamera = true
 
 }

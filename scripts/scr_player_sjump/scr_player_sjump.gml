@@ -13,9 +13,9 @@ function scr_player_sjump(){
 		state = states.normal
 		vsp = 0
 	}
-	if key_attack {
-		state = states.mach2
-		sprite_index = spr_player_machspin
+	if key_attack or key_mach_press {
+		state = states.mach3
+		sprite_index = spr_playerN_sidewayspin
 		image_index = 0
 		movespeed = 10
 		vsp = -9
